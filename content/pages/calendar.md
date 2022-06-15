@@ -1,8 +1,9 @@
 ---
 content_type: page
+description: The calendar section provides the schedule of lecture sessions, topics,
+  and speakers.
 learning_resource_types: []
 ocw_type: CourseSection
-parent_uid: null
 title: Calendar
 uid: e6a6aad7-75f4-9263-7f0d-dd69123e9a39
 ---
