@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains the course description, grading information,
+  and other useful resources.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: e3578e41-3d2a-91f9-673e-e85d40f8d8c7
 ---
@@ -26,7 +30,7 @@ Useful Resources
 
 Reference material from the Joint Planning and Development Office can be found at [Next Generation Air Transportation System](https://www.transportation.gov/testimony/benefits-next-generation-air-transportation-system).
 
-Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.mitrecaasd.org/library/general/nas_oep_ppt.pdf))
+Reference material from the FAA Operational Evolution can be found at Operational Evolution Plan. ([PDF](http://www.mitrecaasd.org/library/general/nas_oep_ppt.pdf))
 
 Reference material for European Air Traffic Management can be linked from [Eurocontrol](https://www.eurocontrol.int/about-us).
 
