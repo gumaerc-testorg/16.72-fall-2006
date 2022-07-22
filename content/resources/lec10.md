@@ -6,6 +6,7 @@ file: /courses/16-72-air-traffic-control-fall-2006/0debf5a161a8cae60ab9d5a78ad03
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec10.pdf
 uid: 0debf5a1-61a8-cae6-0ab9-d5a78ad036e7
 ---
 Lecture slides on system wide modeling, introduction to the JPDO, NGATS, and EAD, modeling overview, constraints analysis and portfolio analysis.
-

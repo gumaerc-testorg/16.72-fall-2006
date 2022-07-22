@@ -8,6 +8,7 @@ file: /courses/16-72-air-traffic-control-fall-2006/5003c6f5d997d7c2e031561398835
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -18,4 +19,3 @@ uid: 5003c6f5-d997-d7c2-e031-56139883591c
 ---
 Lecture slides on the Next Generation Air Transportation System Initiative: Methods for the Analysis of
 Future Operational Concepts.
-

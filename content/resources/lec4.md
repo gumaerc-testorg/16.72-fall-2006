@@ -6,6 +6,7 @@ file: /courses/16-72-air-traffic-control-fall-2006/2b9b0669ee0731eaf6e575550bcfa
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lec4.pdf
 uid: 2b9b0669-ee07-31ea-f6e5-75550bcfa0cb
 ---
 Lecture slides with an overview of modernization plans fir air traffic control management.
-

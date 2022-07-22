@@ -7,6 +7,7 @@ file: /courses/16-72-air-traffic-control-fall-2006/a94235458393be579d2da2a03bfb0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: lec12.pdf
 uid: a9423545-8393-be57-9d2d-a2a03bfb05b6
 ---
 Lecture slides on controller training and labor issues, air traffic controller attrition, retirement eligibility, training challenges, workforce development efforts, technology transitions, unions, and contracts.
-

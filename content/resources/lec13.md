@@ -5,6 +5,7 @@ file: /courses/16-72-air-traffic-control-fall-2006/bc55e4aabe2a7b1743e1890c7e9cb
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lec13.pdf
 uid: bc55e4aa-be2a-7b17-43e1-890c7e9cbe38
 ---
 Lecture slides on air traffic control funding and user fees.
-
