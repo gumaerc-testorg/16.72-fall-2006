@@ -8,16 +8,16 @@ title: Readings
 uid: 7b033255-e414-dbb9-fd2a-256da42da08f
 ---
 
-Air Traffic Control: Complete and Enforced Architecture Needed for Federal Aviation Administration Systems Modernization. ({{% resource_link "be88a208-614c-469a-a2f0-8fd62a298b5c" "PDF - 3.4 MB" %}})
+Air Traffic Control: Complete and Enforced Architecture Needed for Federal Aviation Administration Systems Modernization. ([PDF - 3.4 MB](http://www.gao.gov/archive/1997/ai97030.pdf))
 
-United States Frequency Allocations - The Radio Spectrum. ({{% resource_link "608a625f-f94b-4ee5-9b5e-0f9a776d73ae" "PDF" %}})
+United States Frequency Allocations - The Radio Spectrum. ([PDF](https://www.ntia.doc.gov/files/ntia/publications/2003-allochrt.pdf))
 
-Concept of Operations for the Next Generation Air Transportation System. ({{% resource_link "8cee547d-7327-471b-99d9-b72dbcc3f0b2" "PDF - 2.6 MB" %}})
+Concept of Operations for the Next Generation Air Transportation System. ([PDF - 2.6 MB](https://www.hsdl.org/?abstract&did=747519))
 
-Next Generation Air Transportation System (NGATS) - Integrated Plan. ({{% resource_link "70aaa5f6-3e15-4d7c-8a6a-29e9646bb28f" "PDF - 3.2 MB" %}})
+Next Generation Air Transportation System (NGATS) - Integrated Plan. ([PDF - 3.2 MB](http://cafefoundation.org/v2/pdf_tech/NASA.Aeronautics/PAV.NASA.ARMD.NGATS.pdf))
 
-Single European Sky Air Traffic Management Research. ({{% resource_link "2e6aac42-6fb1-44b8-b59c-ee147321cf24" "PDF - 2.9 MB" %}})
+Single European Sky Air Traffic Management Research. ([PDF - 2.9 MB](http://www.atmseminar.org/seminarContent/seminar7/media/pdf/Tytgat.pdf))
 
-NGATS Concept Brief. ({{% resource_link "dbf4ba77-b619-457a-9df7-080ecd9cb2b2" "PDF" %}})
+NGATS Concept Brief. ([PDF](https://www.ral.ucar.edu/general/vision05/bee_overview.pdf))
 
-NGATS Operational Improvement Roadmap. ({{% resource_link "e5c73a95-e42f-4f6d-8314-9f47ceccdaef" "XLS" %}})
+NGATS Operational Improvement Roadmap. ([XLS](http://web.archive.org/web/20060728223349/http://www.aiaa.org/Participate/Uploads/NGATS%20O.I.%20Roadmap%28060427%29.xls))
