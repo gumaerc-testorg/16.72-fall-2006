@@ -4,6 +4,7 @@ description: Lecture slides on controller training and labor issues, air traffic
   attrition, retirement eligibility, training challenges, workforce development efforts,
   technology transitions, unions, and contracts.
 file: /courses/16-72-air-traffic-control-fall-2006/a94235458393be579d2da2a03bfb05b6_lec12.pdf
+file_size: 1668280
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

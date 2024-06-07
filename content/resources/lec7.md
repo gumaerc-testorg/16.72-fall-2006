@@ -4,6 +4,7 @@ description: Lecture slides on air traffic flow management, benefits derived fro
   Air Traffic Flow Management (ATFM) and the Collaborative Decision Making (CDM) process,
   planning and coordination, and automated tools and procedures
 file: /courses/16-72-air-traffic-control-fall-2006/fa503970a663888d411c2c8dd178116a_lec7.pdf
+file_size: 4696900
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
