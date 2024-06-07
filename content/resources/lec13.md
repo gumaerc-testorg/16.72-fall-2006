@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture slides on air traffic control funding and user fees.
 file: /courses/16-72-air-traffic-control-fall-2006/bc55e4aabe2a7b1743e1890c7e9cbe38_lec13.pdf
+file_size: 1507193
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
