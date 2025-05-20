@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides with an overview of air traffic control.
-file: /ol-ocw-studio-app/courses/16-72-air-traffic-control-fall-2006/25032d6f23298c5c2c8596d16b3e45fb_lec1.pdf
+file: /courses/16-72-air-traffic-control-fall-2006/25032d6f23298c5c2c8596d16b3e45fb_lec1.pdf
 file_size: 2510031
 file_type: application/pdf
 learning_resource_types:
