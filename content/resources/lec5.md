@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture slides on airport operations, infrastructure, and performance.
-file: /courses/16-72-air-traffic-control-fall-2006/5afa0d05652ea1b0ad7bebf626036182_lec5.pdf
+file: /ol-ocw-studio-app/courses/16-72-air-traffic-control-fall-2006/5afa0d05652ea1b0ad7bebf626036182_lec5.pdf
 file_size: 1797453
 file_type: application/pdf
 learning_resource_types:

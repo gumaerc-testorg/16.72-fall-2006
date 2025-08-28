@@ -4,7 +4,7 @@ description: 'Lecture slides on the Next Generation Air Transportation System In
   Methods for the Analysis of
 
   Future Operational Concepts.'
-file: /courses/16-72-air-traffic-control-fall-2006/5003c6f5d997d7c2e03156139883591c_lec9.pdf
+file: /ol-ocw-studio-app/courses/16-72-air-traffic-control-fall-2006/5003c6f5d997d7c2e03156139883591c_lec9.pdf
 file_size: 2890608
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file is a resource which contains information on topics like Radar
   Controllers, ATM System, Controller?s Task and Controller Goals and Tasks.
-file: /courses/16-72-air-traffic-control-fall-2006/876c1f8ffe559ebf7599ab3a07c87554_lec6.pdf
+file: /ol-ocw-studio-app/courses/16-72-air-traffic-control-fall-2006/876c1f8ffe559ebf7599ab3a07c87554_lec6.pdf
 file_size: 1177236
 file_type: application/pdf
 learning_resource_types:
